@@ -1,0 +1,9 @@
+https://www.dianping.com/shop/EyCN5U7Vjjs02lGu
+
+window.Rohr_Opt.reload("http://www.dianping.com?shopId=EyCN5U7Vjjs02lGu")
+
+var rohrdata = "";
+//var Rohr_Opt = new Object;
+var Rohr_Opt = {};
+Rohr_Opt.Flag = 100041;
+Rohr_Opt.LogVal = "rohrdata";

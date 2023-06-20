@@ -1,0 +1,35 @@
+https://www.nmpa.gov.cn/datasearch/home-index.html#category=hzp
+
+
+检测点：
+    无头浏览器HeadlessChrome、Navigator.languages
+        else if (_$6j < 155) {_$KK =_$R3(_$hX(_$1d[621]))[_$1d[60]](_$CH[_$1d[84]]) || _$CH[_$1d[730]] === _$Fj;
+
+函数运行：
+    setInterval
+        2047s  
+        ƒ _$x4() {
+            var _$Hd = [560];
+            Array.prototype.push.apply(_$Hd, arguments);
+            return _$ks.apply(this, _$Hd);
+        }
+
+
+$_fh0 [16]
+
+$_f1 $_f0 $_fb[0]
+
+function _$1C() {
+	_$nQ();
+	_$ya(_$Lx, 0);
+	_$ya(_$WK, 0);
+}
+
+
+// for (var k in window.ts__){
+//   if (typeof window.ts__[k] === "function"){
+//     fs.writeFileSync('./t.js',k+":"+window.ts__[k]+",\r\n",{encoding:"utf-8",flag:"a+"});
+//     continue;
+//   }
+//   fs.writeFileSync('./t.js',k+":"+JSON.stringify(window.ts__[k])+",\r\n",{encoding:"utf-8",flag:"a+"});
+// }

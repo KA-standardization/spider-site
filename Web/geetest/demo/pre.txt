@@ -1,0 +1,597 @@
+https://www.geetest.com/demo/slide-float.html
+https://www.tianyancha.com/
+
+
+n[$_FBAV(153)]({
+	"\u0063\u0068\u0061\u0072\u0073\u0065\u0074": $_FBBM(311),
+	"\u0061\u0079\u0073\u006e\u0063": !1,
+	"\u006f\u006e\u006c\u006f\u0061\u0064": i,
+	"\u006f\u006e\u0072\u0065\u0061\u0064\u0079\u0073\u0074\u0061\u0074\u0065\u0063\u0068\u0061\u006e\u0067\u0065": i,
+	"\u006f\u006e\u0065\u0072\u0072\u006f\u0072": function() {
+		var $_FCAO = cKFnp.$_Cd
+		  , $_FBJq = ['$_FCDV'].concat($_FCAO)
+		  , $_FCBQ = $_FBJq[1];
+		$_FBJq.shift();
+		var $_FCCi = $_FBJq[0];
+		c[$_FCBQ(269)] = 508,
+		c[$_FCAO(348)] && l(v(c, s[$_FCAO(113)]($_FCAO(356))[0]), c[$_FCAO(288)], c[$_FCBQ(289)]),
+		n[$_FCBQ(372)](),
+		o = !0,
+		t(P);
+	},
+	"\u0073\u0072\u0063": s
+})[$_FBAV(368)](new ne(y))
+
+var n2=n.$_FBAV(153)(arg1,arg2,arg3,arg4,arg5,arg6);
+n2.$_FBAV(368)(arg1);
+
+var r = t[$_CFAAK(1392)]()
+  , o = $_BEZ()[$_CFAAK(1347)](ge[$_CFAAK(330)](t[$_CFAAK(275)]), t[$_CFAAK(1381)]())
+  , i = m[$_CFAAK(1343)](o)
+  , s = {
+	"\u0067\u0074": t[$_CFABW(275)][$_CFABW(348)],
+	"\u0063\u0068\u0061\u006c\u006c\u0065\u006e\u0067\u0065": t[$_CFABW(275)][$_CFABW(350)],
+	"\u006c\u0061\u006e\u0067": n[$_CFABW(163)],
+	"\u0070\u0074": t[$_CFAAK(1380)],
+	"\u0063\u006c\u0069\u0065\u006e\u0074\u005f\u0074\u0079\u0070\u0065": t[$_CFABW(1364)],
+	"\u0077": i + r
+};
+
+r={
+	A: 1,
+	CPUClass: undefined,
+	DIV: 12,
+	HTMLLength: 7436,
+	INPUT: 2,
+	LABEL: 3,
+	SCRIPT: 5,
+	STYLE: 1,
+	browserLanguage: "zh-CN",
+	browserLanguages: "zh-CN",
+	canvas2DFP: "3515ba42d4414f09872d5667a81df514",
+	canvas3DFP: 0,
+	colorDepth: 24,
+	cookieEnabled: 1,
+	devicePixelRatio: 1.25,
+	deviceorientation: -1,
+	doNotTrack: 0,
+	documentMode: "CSS1Compat",
+	flashEnabled: -1,
+	hardwareConcurrency: 12,
+	indexedDBEnabled: 1,
+	innerHeight: 730,
+	innerWidth: 1536,
+	internalip: -1,
+	javaEnabled: 0,
+	jsFonts: "Arial,ArialBlack,ArialNarrow,BookAntiqua,BookmanOldStyle,Calibri,Cambria,CambriaMath,Century,CenturyGothic,CenturySchoolbook,ComicSansMS,Consolas,Courier,CourierNew,Garamond,Georgia,Helvetica,Impact,LucidaBright,LucidaCalligraphy,LucidaConsole,LucidaFax,LucidaHandwriting,LucidaSans,LucidaSansTypewriter,LucidaSansUnicode,MicrosoftSansSerif,MonotypeCorsiva,MSGothic,MSPGothic,MSReferenceSansSerif,MSSansSerif,MSSerif,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,SegoeUILight,SegoeUISemibold,SegoeUISymbol,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Wingdings2,Wingdings3",
+	localStorageEnabled: 1,
+	maxTouchPoints: 0,
+	mediaDevices: -1,
+	netEnabled: 1,
+	outerHeight: 832,
+	outerWidth: 1536,
+	performanceTiming: -1,
+	platform: "Win32",
+	plugins: "internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer",
+	screenAvailHeight: 832,
+	screenAvailLeft: 0,
+	screenAvailTop: 0,
+	screenAvailWidth: 1536,
+	screenHeight: 864,
+	screenLeft: 0,
+	screenTop: 0,
+	screenWidth: 1536,
+	sessionStorageEnabled: 1,
+	systemLanguage: undefined,
+	textLength: 6148,
+	timestamp: 1678760915925,
+	timezone: -8,
+	touchEvent: -1,
+	userAgent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36",
+}
+'6148!!7436!!CSS1Compat!!1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!2!!3!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!1!!-1!!-1!!-1!!0!!0!!0!!0!!1536!!730!!1536!!832!!zh-CN!!zh-CN!!-1!!1.25!!24!!Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36!!1!!1!!1536!!864!!1536!!832!!1!!1!!1!!-1!!Win32!!0!!-8!!3515ba42d4414f09872d5667a81df514!!0!!internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer!!0!!-1!!0!!12!!Arial,ArialBlack,ArialNarrow,BookAntiqua,BookmanOldStyle,Calibri,Cambria,CambriaMath,Century,CenturyGothic,CenturySchoolbook,ComicSansMS,Consolas,Courier,CourierNew,Garamond,Georgia,Helvetica,Impact,LucidaBright,LucidaCalligraphy,LucidaConsole,LucidaFax,LucidaHandwriting,LucidaSans,LucidaSansTypewriter,LucidaSansUnicode,MicrosoftSansSerif,MonotypeCorsiva,MSGothic,MSPGothic,MSReferenceSansSerif,MSSansSerif,MSSerif,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,SegoeUILight,SegoeUISemibold,SegoeUISymbol,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Wingdings2,Wingdings3!!1678760915925!!-1!!-1!!-1!!12!!-1!!-1!!-1!!5!!-1!!-1'
+
+o
+return new ee(n[$_CCEFm(1219)]())[$_CCEFm(117)](function(e) {
+	var $_CCFAf = cKFnp.$_Cd
+	  , $_CCEJC = ['$_CCFDW'].concat($_CCFAf)
+	  , $_CCFBC = $_CCEJC[1];
+	$_CCEJC.shift();
+	var $_CCFCJ = $_CCEJC[0];
+	var t = r[e];
+	o[$_CCFAf(395)](n[$_CCFAf(1122)](t) ? n[$_CCFAf(1142)] : t);
+}),
+o[$_CCEFm(503)]($_CCEGn(1249));
+
+$_BEZ()[$_CFAAK(1347)](ge[$_CFAAK(330)](t[$_CFAAK(275)]), t[$_CFAAK(1381)]())
+$_BEZ().encrypt1(
+	ge[$_CFAAK(330)](t[$_CFAAK(275)]),
+	t[$_CFAAK(1381)]()
+)
+arg1=ge[$_CFAAK(330)]({"gt":"019924a82c70bb123aae90d483087f94","challenge":"4b2b8314fd4efaa1301bb0807f6afa5b","offline":false,"new_captcha":true,"product":"float","width":"300px","https":true,"api_server":"apiv6.geetest.com","protocol":"https://","type":"fullpage","static_servers":["static.geetest.com/","dn-staticdown.qbox.me/"],"voice":"/static/js/voice.1.2.2.js","click":"/static/js/click.3.0.7.js","beeline":"/static/js/beeline.1.0.1.js","fullpage":"/static/js/fullpage.9.1.3.js","slide":"/static/js/slide.7.8.9.js","geetest":"/static/js/geetest.6.0.9.js","aspect_radio":{"slide":103,"click":128,"voice":128,"beeline":50},"cc":12,"ww":true,"i":"6148!!7436!!CSS1Compat!!1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!2!!3!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!1!!-1!!-1!!-1!!0!!0!!0!!0!!1536!!730!!1536!!832!!zh-CN!!zh-CN!!-1!!1.25!!24!!Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36!!1!!1!!1536!!864!!1536!!832!!1!!1!!1!!-1!!Win32!!0!!-8!!3515ba42d4414f09872d5667a81df514!!0!!internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer!!0!!-1!!0!!12!!Arial,ArialBlack,ArialNarrow,BookAntiqua,BookmanOldStyle,Calibri,Cambria,CambriaMath,Century,CenturyGothic,CenturySchoolbook,ComicSansMS,Consolas,Courier,CourierNew,Garamond,Georgia,Helvetica,Impact,LucidaBright,LucidaCalligraphy,LucidaConsole,LucidaFax,LucidaHandwriting,LucidaSans,LucidaSansTypewriter,LucidaSansUnicode,MicrosoftSansSerif,MonotypeCorsiva,MSGothic,MSPGothic,MSReferenceSansSerif,MSSansSerif,MSSerif,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,SegoeUILight,SegoeUISemibold,SegoeUISymbol,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Wingdings2,Wingdings3!!1678761807099!!-1!!-1!!-1!!12!!-1!!-1!!-1!!5!!-1!!-1"})
+	='{"gt":"019924a82c70bb123aae90d483087f94","challenge":"4b2b8314fd4efaa1301bb0807f6afa5b","offline":false,"new_captcha":true,"product":"float","width":"300px","https":true,"api_server":"apiv6.geetest.com","protocol":"https://","type":"fullpage","static_servers":["static.geetest.com/","dn-staticdown.qbox.me/"],"voice":"/static/js/voice.1.2.2.js","click":"/static/js/click.3.0.7.js","beeline":"/static/js/beeline.1.0.1.js","fullpage":"/static/js/fullpage.9.1.3.js","slide":"/static/js/slide.7.8.9.js","geetest":"/static/js/geetest.6.0.9.js","aspect_radio":{"slide":103,"click":128,"voice":128,"beeline":50},"cc":12,"ww":true,"i":"6148!!7436!!CSS1Compat!!1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!2!!3!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!-1!!1!!-1!!-1!!-1!!0!!0!!0!!0!!1536!!730!!1536!!832!!zh-CN!!zh-CN!!-1!!1.25!!24!!Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36!!1!!1!!1536!!864!!1536!!832!!1!!1!!1!!-1!!Win32!!0!!-8!!3515ba42d4414f09872d5667a81df514!!0!!internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer!!0!!-1!!0!!12!!Arial,ArialBlack,ArialNarrow,BookAntiqua,BookmanOldStyle,Calibri,Cambria,CambriaMath,Century,CenturyGothic,CenturySchoolbook,ComicSansMS,Consolas,Courier,CourierNew,Garamond,Georgia,Helvetica,Impact,LucidaBright,LucidaCalligraphy,LucidaConsole,LucidaFax,LucidaHandwriting,LucidaSans,LucidaSansTypewriter,LucidaSansUnicode,MicrosoftSansSerif,MonotypeCorsiva,MSGothic,MSPGothic,MSReferenceSansSerif,MSSansSerif,MSSerif,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,SegoeUILight,SegoeUISemibold,SegoeUISymbol,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Wingdings2,Wingdings3!!1678761807099!!-1!!-1!!-1!!12!!-1!!-1!!-1!!5!!-1!!-1"}'
+arg2=edd99a3ac205d0f1
+
+https://api.geetest.com/ajax.php
+w2
+"\u0024\u005f\u0042\u0046\u0048\u006b": function() {
+	var $_CBGFB = cKFnp.$_Cd
+	  , $_CBGER = ['$_CBGIQ'].concat($_CBGFB)
+	  , $_CBGGV = $_CBGER[1];
+	$_CBGER.shift();
+	var $_CBGHm = $_CBGER[0];
+	var e = this[$_CBGFB(820)];
+	return this[$_CBGFB(820)] = [],
+	this[$_CBGFB(929)](this[$_CBGGV(912)](e));
+}
+
+lastTime: 0
+拼接： i[$_CGBAE(1469)] += $_CGBBR(622) + a[c][0] + $_CGBBR(1447) + ge[$_CGBAE(330)](a[c][1]) + $_CGBBR(759);
+
+'"lang":"zh-cn","type":"fullpage","tt":"M2JEp8Pjp8PA-*B1p8BN:9U*-5((J(1((A(b55((i((1(n((o,((5(:EM(),(9(@i((((:(_*kGCRjAE-1.hRjbhRUKCnEG1K0M9NjG)*0p)*7PVLjM9I9MEKCRjK1a.RVM9K)*0NVGCMEO))dh0M9PhRVK1-0NjKa(l.S39CLNjK0MCpE/0Nj4DNjIKK**/NjK0RFNh5BK(EQ(,b(B,bb(e,5(((((5(b555b5f(b,b(n,R@MR5U-(M9-N6D2cQ:K5-*N9(?-*M9-1-)11-**)(?5AK2d6YQNVD))T:Ab9ABH))*7)(?/)(MM91)3)M?MU)0K-4)(9-cbE8)(N(94)(EG(-)MM)p,j((8qn,qp(Aj5b-,((n55n9nq(8,8),8,5,(,(5/S-Y-)3,M)1AJ@/)M)19-Y-)b95Ab91cN1(E9(ME-P1?M9/)MPME3)(E/(-M3*M13)11-**)(E-(-/6-NMb(E-(ME-)b9-5-)(MM91@(?M9-P1j1))p0q1m1((","light":"DIV_0|SPAN_1","s":"c7c3e21112fe4f741921cb3e4ff9f7cb","h":"12d48c9a0fadb600450e10c6ec08ae88","hh":"71b7e2672d4e54901df6d063c00e9601","hi":"01b44d1c9c1e52c770b83433e61d6e53","vip_order":-1,"ct":-1,"ep":{"v":"9.1.2","de":false,"te":false,"$_BBS":true,"ven":"Google Inc. (NVIDIA)","ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)","fp":["move",149,422,1678847312129,"pointermove"],"lp":["up",88,382,1678847322353,"pointerup"],"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},"tm":{"a":1678847292127,"b":1678847292961,"c":1678847292961,"d":0,"e":0,"f":1678847292128,"g":1678847292130,"h":1678847292586,"i":1678847292586,"j":1678847292627,"k":1678847292604,"l":1678847292627,"m":1678847292956,"n":1678847292956,"o":1678847292962,"p":1678847297982,"q":1678847297982,"r":1678847297984,"s":1678847297984,"t":1678847297984,"u":1678847297984},"dnf":"dnf","by":0},"passtime":117288,"rp":"67bd1ab7b93b4b622e63a0485bc56266",'
+'"lang":"zh-cn","type":"fullpage","tt":"M:O8Pjp8Pjp1C8OfPjp.C8PjB)(Up8ON9U,g(((q(((5(1((((,1,9b((b,(,(,b(((3()((9((((PM((((,b,((emb(0((-((()-cNA,b((8(b((,-9)-/RVG4C)Nj-1M9K2FkG0Nj/1G0Nc0EKCNkG0NkK1/0MFFjG)**d0MENVGCNkMEK0Nj/1K/Nj-1K7Nj-1M9KCNqNjK0Ma4PVUK04EKDNc,EK0RUKCNkmWqEcZ:*UK/VEK0NjK0M9O).UG2M9K0NjK)O/M9O))d:?:4M9KSNjIYMENjGDRch/RjK/RVICI9K)*/-)BN4@JqNjM9K)*/RjGDNj-1M9KCK)*/RVK0NjM9Lc)N*/RUQ.S(gj(:BBBBBATA(,bnb8(8b((q(((5nq,dA((5bb()9(((5e8((,ACBI5bb5((b(5(BBBBBf(nbe/KKkfDUC/)QE/:YI1?1c1*5U1NQE-cKN1@RF9MM9/)(f3)(j--G))AAj--M9-N55-)ME/)(P2*9d/)MU/,M91c191?-U-(4)(n--4)(E-(M91)M93)(g06/:2g-P9,ME-U-)61/.J?9fIKJO.,B0N01j-(4)(9b9-5-)M9(?-iHoM:5C1a0)YfbN5?jMb:F*ME-j1-5E-(-)M92@9P-1-)AP9cMM(@P)QE4)Yb5OQX3PAi2,1N21-J-mANME,)(9b9-)N((E-(((((((0(()Tj(,((9(0n((((((.(EG3WXWW(E((0NM(/)p)NpE/E)M0kFMFV(O@3WUME4(((3WWb(//)S0ME(1)M(((((/FSENjl4,VG4.cOF96EA-N(?*/jjb1(F43QbV)M-*(MA*(Q1-1,(M(UC*(b1)(M?Uf,*YI**910(bNb1-M0(M291*9*--(S9R)(5*(99*))I0(,*b(Q5*(,(M.i:FH93K3n7Q(_AOk52I5WMb1(F3N_d6hP1W9PF(COF-8,?-(Q2b5(9j1-2,(M(b1(1E5,*M(M5/(-Oi(N8HQ,-32(Oi55MS1*E0MM2E1*C*(RMM291((((qj0((0pqqq(((4qj((qqp","light":"DIV_0|DIV_1","s":"c7c3e21112fe4f741921cb3e4ff9f7cb","h":"e197c44c06e429564cf3cc9416ee7068","hh":"82d92c1761ec925656743f39ced2596e","hi":"c1e5cd09c396aa22b087a7e6c4039ccc","vip_order":-1,"ct":-1,"ep":{"v":"9.1.2","de":false,"te":false,"$_BBS":true,"ven":"Google Inc. (NVIDIA)","ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)","fp":["move",414,16,1678848005960,"pointermove"],"lp":["up",829,324,1678848040731,"pointerup"],"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},"tm":{"a":1678848004574,"b":0,"c":0,"d":0,"e":0,"f":1678848004577,"g":1678848004580,"h":1678848004593,"i":1678848004593,"j":1678848004640,"k":1678848004612,"l":1678848004640,"m":1678848004838,"n":1678848004838,"o":1678848004843,"p":1678848005069,"q":1678848005069,"r":1678848005071,"s":1678848005071,"t":1678848005071,"u":1678848005071},"dnf":"dnf","by":0},"passtime":35181,'
+
+
+{
+	//t=["bbOy"] $_CGCFE(395)=push e='' $_CGCGG(421)=toString
+	t[$_CGCFE(395)](e[$_CGCGG(421)]());
+	// r=""
+	var r = $_CGCGG(279);
+	
+	!function o(e, t) {
+		function n(e) {
+			var $_DEHAp = cKFnp.$_Dt()[8][14];
+			for (; $_DEHAp !== cKFnp.$_Dt()[4][12]; ) {
+				switch ($_DEHAp) {
+				case cKFnp.$_Dt()[4][14]:
+					var t = 5381
+					  , n = e[$_CGDBu(258)]
+					  , r = 0;
+					while (n--)
+						t = (t << 5) + t + e[$_CGDBu(340)](r++);
+					$_DEHAp = cKFnp.$_Dt()[8][13];
+					break;
+				case cKFnp.$_Dt()[4][13]:
+					return t &= ~(1 << 31);
+					break;
+				}
+			}
+		}
+		// 反调试 通过时间改变 e的值
+		100 < new Date()[$_CGDBu(200)]() - t[$_CGDAc(200)]() && (e = $_CGDAc(1433)),
+		
+		// r = $_CGDAc(704) + i[$_CGDAc(1469)] + $_CGDAc(1409) + n(o[$_CGDBu(421)]() + n(n[$_CGDBu(421)]()) + n(e[$_CGDAc(421)]())) + $_CGDBu(1415);
+		var tmp_1='"lang":"zh-cn","type":"fullpage","tt":"M:O8Pjp8Pjp1C8OfPjp.C8PjB)(Up8ON9U,g(((q(((5(1((((,1,9b((b,(,(,b(((3()((9((((PM((((,b,((emb(0((-((()-cNA,b((8(b((,-9)-/RVG4C)Nj-1M9K2FkG0Nj/1G0Nc0EKCNkG0NkK1/0MFFjG)**d0MENVGCNkMEK0Nj/1K/Nj-1K7Nj-1M9KCNqNjK0Ma4PVUK04EKDNc,EK0RUKCNkmWqEcZ:*UK/VEK0NjK0M9O).UG2M9K0NjK)O/M9O))d:?:4M9KSNjIYMENjGDRch/RjK/RVICI9K)*/-)BN4@JqNjM9K)*/RjGDNj-1M9KCK)*/RVK0NjM9Lc)N*/RUQ.S(gj(:BBBBBATA(,bnb8(8b((q(((5nq,dA((5bb()9(((5e8((,ACBI5bb5((b(5(BBBBBf(nbe/KKkfDUC/)QE/:YI1?1c1*5U1NQE-cKN1@RF9MM9/)(f3)(j--G))AAj--M9-N55-)ME/)(P2*9d/)MU/,M91c191?-U-(4)(n--4)(E-(M91)M93)(g06/:2g-P9,ME-U-)61/.J?9fIKJO.,B0N01j-(4)(9b9-5-)M9(?-iHoM:5C1a0)YfbN5?jMb:F*ME-j1-5E-(-)M92@9P-1-)AP9cMM(@P)QE4)Yb5OQX3PAi2,1N21-J-mANME,)(9b9-)N((E-(((((((0(()Tj(,((9(0n((((((.(EG3WXWW(E((0NM(/)p)NpE/E)M0kFMFV(O@3WUME4(((3WWb(//)S0ME(1)M(((((/FSENjl4,VG4.cOF96EA-N(?*/jjb1(F43QbV)M-*(MA*(Q1-1,(M(UC*(b1)(M?Uf,*YI**910(bNb1-M0(M291*9*--(S9R)(5*(99*))I0(,*b(Q5*(,(M.i:FH93K3n7Q(_AOk52I5WMb1(F3N_d6hP1W9PF(COF-8,?-(Q2b5(9j1-2,(M(b1(1E5,*M(M5/(-Oi(N8HQ,-32(Oi55MS1*E0MM2E1*C*(RMM291((((qj0((0pqqq(((4qj((qqp","light":"DIV_0|DIV_1","s":"c7c3e21112fe4f741921cb3e4ff9f7cb","h":"e197c44c06e429564cf3cc9416ee7068","hh":"82d92c1761ec925656743f39ced2596e","hi":"c1e5cd09c396aa22b087a7e6c4039ccc","vip_order":-1,"ct":-1,"ep":{"v":"9.1.2","de":false,"te":false,"$_BBS":true,"ven":"Google Inc. (NVIDIA)","ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)","fp":["move",414,16,1678848005960,"pointermove"],"lp":["up",829,324,1678848040731,"pointerup"],"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},"tm":{"a":1678848004574,"b":0,"c":0,"d":0,"e":0,"f":1678848004577,"g":1678848004580,"h":1678848004593,"i":1678848004593,"j":1678848004640,"k":1678848004612,"l":1678848004640,"m":1678848004838,"n":1678848004838,"o":1678848004843,"p":1678848005069,"q":1678848005069,"r":1678848005071,"s":1678848005071,"t":1678848005071,"u":1678848005071},"dnf":"dnf","by":0},"passtime":35181,'
+
+		r = '{' + tmp_1 + '"captcha_token":"' + n(o[$_CGDBu(421)]() + n(n[$_CGDBu(421)]()) + n(e[$_CGDAc(421)]())) + '"}';
+		
+	}(
+	t[$_CGCFE(1465)](), 
+	new Date()
+	);
+	
+	i[$_CGCFE(1466)] = m[$_CGCGG(1343)](_[$_CGCFE(411)](r, i[$_CGCFE(1381)]()));
+}
+
+r='{"lang":"zh-cn","type":"fullpage","tt":"M1*8PjkAPjp8Pj5A3(I9((,,(((((f(((((G,b(((55((,(,(((9(f(::)UGDNjK)*0O))kCDNjK8K~/Rj-19iNjKCNjK0p0nlYc/RS)Nj/1K0NkGCNjM9K0M9NjGDNVK)O/NVG)O0NjK/RN*0p/MEM9C_E9MCZMAE)OM(BBBBBA555(e(1((,((b((((((5be(b5:k.Pa/O5L7*V98fRE:BF)?@5a0NJOME(cb91?ME(P9U--7)(?-*0fB*N-APUb9SZK/@)(N(?-P1@2*?0MUEj/*/*)(9/)()MU(9/)()(EA(((((K(Lqq(((0b*kE)WWWU0S0M)TMG*XWM()p)j((()S(EETn*(/?8(NEU2-9p:R1p?,1cZ.(M/*(NN(1,(M5*)/X-n**R(MI**-6j191mbU?,(XMOMp2O0k?hPTMbC.(b9(1.)(/-(Q)WOQN/(RMM2E1*Et*C*(Q5*((((90qqpLqq","light":"SPAN_0","s":"c7c3e21112fe4f741921cb3e4ff9f7cb","h":"f4c3a4e8cb3af6c1ccb8b37d1b9e7fbd","hh":"cfc5f08bba455849fea61ee57e6955c1","hi":"d47024f5042c2468b5aee021e3dfb7bf","vip_order":-1,"ct":-1,"ep":{"v":"9.1.2","de":false,"te":false,"$_BBS":true,"ven":"Google Inc. (NVIDIA)","ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)","fp":["move",286,319,1678850016316,"pointermove"],"lp":["up",742,319,1678850020875,"pointerup"],"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},"tm":{"a":1678850013968,"b":1678850014270,"c":1678850014270,"d":0,"e":0,"f":1678850013969,"g":1678850013970,"h":1678850014041,"i":1678850014041,"j":1678850014080,"k":1678850014059,"l":1678850014080,"m":1678850014266,"n":1678850014267,"o":1678850014271,"p":1678850014536,"q":1678850014536,"r":1678850014538,"s":1678850014538,"t":1678850014538,"u":1678850014538},"dnf":"dnf","by":0},"passtime":5626,"rp":"9a128a5a04517a39b9e9c38a4aef229a","captcha_token":"1411048763"}'
+  '{"lang":"zh-cn","type":"fullpage","tt":"M.Y.?8Pjp8Pc9U)9k,bn(5,(((((8-(((((((((9(o/)(0X4Z2M9K)*/S))j-1K/Rj-1GCM9NjGCNlG0NVGE-0M9Nh2jG0NjK0NqNkK/RjKKG:SG/RjM9K)*/1.3(9/(8b-((55)(,5(,b(n(b58RZ1_9P,)(I-*b96afBKj:@F5/,(U-._3-gNO7)()M9(9-g@))n-/JC9E1(Mb1?-1-)1?M9-NMU(qqj(0q(1)-U,8B5)BI,((5b,(((((bn85:kIHnf4)(fb9H@)O)A9.jb9g_QE-:5:/Y-3JDb9GOB*5I-*,)M9-*b9-*(P-)195@4)(c,)(E-(-53)M9(E-(8qqqqqqb","light":"SPAN_0","s":"c7c3e21112fe4f741921cb3e4ff9f7cb","h":"9e76a7243503ce402aa052db3a5d9453","hh":"12b3d09bad11bd62987aeeeaeb93e286","hi":"6804c1398c73a9acea9ca01e97607815","vip_order":-1,"ct":-1,"ep":{"v":"9.1.2","de":false,"te":false,"$_BBS":true,"ven":"Google Inc. (NVIDIA)","ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)","fp":["move",229,279,1678852158523,"pointermove"],"lp":["up",706,318,1678852161602,"pointerup"],"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},"tm":{"a":1678852156958,"b":0,"c":0,"d":0,"e":0,"f":1678852156961,"g":1678852156964,"h":1678852157059,"i":1678852157059,"j":1678852157102,"k":1678852157076,"l":1678852157102,"m":1678852157292,"n":1678852157293,"o":1678852157297,"p":1678852157515,"q":1678852157515,"r":1678852157517,"s":1678852157517,"t":1678852157517,"u":1678852157517},"dnf":"dnf","by":0},"passtime":3552,"rp":"480986234a86f39dba0a16aa79b6ba74","captcha_token":"1080767038"}'
+
+r = {
+    "lang": "zh-cn",
+    "type": "fullpage",
+    "tt": "M:gAPjp8Pj.APjp7-*Pjp8Pjp8Pjp8(A3(l*9(8(8(,,,5J((,nbb(*f:((-((((((((5((,.(5,n(b*,5(n,b5f(5bf8n(be)-(5(-,e(A,(8(.-4dHNUKCK)*1-0OCO))j/1K0Nj-1Fj-1QK1-0S))qEU-8.aNjKCO))j-1M9KE-0Nj-1GEGCIKnAje.))dFqRaRNqUK0NkK/RUK0RVGCRTM9RUG0NjI@pOCH7COE-0NjM9K)O1-0NVG)O0Nj-KFj-1G)O0NjMEK)O0Nj-1M9K/S))jM9I9p0NU-1K)-/l)*4cjM9K)*1-0M9NjK1/0Rj-8O))jI9nCNkG1-0Njl:G0O)Nj-1K)*0ofYSK0M9NVGE-0M9NaTkFX)EM578(b(,((((b5(.BJ-(5)e(((5(((,(e57(,e5(58bbeb8nb(BBBBAq5b(8b,((,,(ne(U--M95PC)(RJ.JXMMOEcF,Ui9?/,(*-1-)70XNU90)II/U-I/Y/3TCC)(9-Um*(9b91@(?-,En-.:QAf5A-Nb91)4)(?b9-n--2I/--Z-*-5-*b9:Y-0X)OgZDi))lm))Y-)M9)*M95@M911/)ME(?/)M1/,MU?)(NNM(?(E-)EP/OEO2*jb2dAM1cLn-0bE/)(9MM-1-)(M-NM93)(E1(1),)(9-)19/,()*)(M-1-)MU((((((((Lqqqq8qNbqqn8k(EY(/(WWXWWO)jK(EE/((,Nj((E)kS-E/LM((K(/()S(((E/0M(WXlNNjFTqM(()S((FRW-m2/**ff*Md3PA:*:029BE2??QNM2,jkER52MMK*(M5*(9A*MQI,(M5,(-)j1*V3dUW957(-S*)E1/VUW5@E13PYS,*j51C,)RMME/4-5-(*(b5-I-*910(M?/?D7B-*)952)WG913g86k(O0b1N_B,3NOA,(Q(b1-291,(M?-4C1*UM5OEZMPC*3*1NQE11)E1,)((NN(2E1/S*)E10MM7.)E1*9M1-1*Ej1/_*,R*Y2RN(291(qqqqp,qiqqb(((x(((0qqqqq",
+    "light": "FORM_0|SPAN_1",
+    "s": "c7c3e21112fe4f741921cb3e4ff9f7cb",
+    "h": "77580ce27273f3f8c09c960185818e48",
+    "hh": "4f9a9801f1f582fa8a639a638c488997",
+    "hi": "84ca69647814a427188777ad5fe09c40",
+    "vip_order": -1,
+    "ct": -1,
+    "ep": {
+        "v": "9.1.2",
+        "de": false,
+        "te": false,
+        "$_BBS": true,
+        "ven": "Google Inc. (NVIDIA)",
+        "ren": "ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)",
+        "fp": ["move", 816, 724, 1678848679450, "pointermove"],
+        "lp": ["up", 785, 324, 1678848693999, "pointerup"],
+        "em": {"ph": 0, "cp": 0, "ek": "11", "wd": 1, "nt": 0, "si": 0, "sc": 0},
+        "tm": {"a": 1678848674187, "b": 0, "c": 0, "d": 0, "e": 0, "f": 1678848674189, "g": 1678848674193,
+               "h": 1678848674235, "i": 1678848674235, "j": 1678848674276, "k": 1678848674252, "l": 1678848674276,
+               "m": 1678848674568, "n": 1678848674569, "o": 1678848674573, "p": 1678848674804, "q": 1678848674804,
+               "r": 1678848674805, "s": 1678848674806, "t": 1678848674806, "u": 1678848674806},
+        "dnf": "dnf",
+        "by": 0
+    },
+    "passtime": 18371,
+    "rp": "1167c0f2631a9844cfc4f71a4ca04076",
+}
+
+"function o(e, t) {
+	var $_CGDAc = cKFnp.$_Cd
+	  , $_CGCJh = ['$_CGDDQ'].concat($_CGDAc)
+	  , $_CGDBu = $_CGCJh[1];
+	$_CGCJh.shift();
+	var $_CGDCl = $_CGCJh[0];
+	function n(e) {
+		var $_DEHAp = cKFnp.$_Dt()[8][14];
+		for (; $_DEHAp !== cKFnp.$_Dt()[4][12]; ) {
+			switch ($_DEHAp) {
+			case cKFnp.$_Dt()[4][14]:
+				var t = 5381
+				  , n = e[$_CGDBu(258)]
+				  , r = 0;
+				while (n--)
+					t = (t << 5) + t + e[$_CGDBu(340)](r++);
+				$_DEHAp = cKFnp.$_Dt()[8][13];
+				break;
+			case cKFnp.$_Dt()[4][13]:
+				return t &= ~(1 << 31);
+				break;
+			}
+		}
+	}
+	100 < new Date()[$_CGDBu(200)]() - t[$_CGDAc(200)]() && (e = $_CGDAc(1433)),
+	r = $_CGDAc(704) + i[$_CGDAc(1469)] + $_CGDAc(1409) + n(o[$_CGDBu(421)]() + n(n[$_CGDBu(421)]()) + n(e[$_CGDAc(421)]())) + $_CGDBu(1415);
+}"
+						
+function o(e,t){var $_CGDAc=cKFnp.$_Cd,$_CGCJh=['$_CGDDQ'].concat($_CGDAc),$_CGDBu=$_CGCJh[1];$_CGCJh.shift();var $_CGDCl=$_CGCJh[0];function n(e){var $_DEHAp=cKFnp.$_Dt()[8][14];for(;$_DEHAp!==cKFnp.$_Dt()[4][12];){switch($_DEHAp){case cKFnp.$_Dt()[4][14]:var t=5381,n=e[$_CGDBu(258)],r=0;while(n--)t=(t<<5)+t+e[$_CGDBu(340)](r++);$_DEHAp=cKFnp.$_Dt()[8][13];break;case cKFnp.$_Dt()[4][13]:return t&=~(1<<31);break;}}}100<new Date()[$_CGDBu(200)]()-t[$_CGDAc(200)]()&&(e=$_CGDAc(1433)),r=$_CGDAc(704)+i[$_CGDAc(1469)]+$_CGDAc(1409)+n(o[$_CGDBu(421)]()+n(n[$_CGDBu(421)]())+n(e[$_CGDAc(421)]()))+$_CGDBu(1415);}												
+
+Qe["$_CEFQ"]={
+	"v":"9.1.2",
+	"de":false,
+	"te":false,
+	"$_BBS":true,
+	"ven":"Google Inc. (NVIDIA)",
+	"ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)",
+	"fp":["move",792,720,1678860483890,"pointermove"],
+	"lp":["up",726,317,1678860485074,"pointerup"],
+	"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},
+	"tm":{"a":1678860479476,"b":0,"c":0,"d":0,"e":0,"f":1678860479479,"g":1678860479482,"h":1678860479528,"i":1678860479528,"j":1678860479562,"k":1678860479542,"l":1678860479562,"m":1678860479641,"n":1678860479642,"o":1678860479646,"p":1678860480083,"q":1678860480083,"r":1678860480084,"s":1678860480085,"t":1678860480085,"u":1678860480085},
+	"dnf":"dnf",
+	"by":0
+}
+
+var ke = {
+	$_BDEK: [
+		["blur",1678860481073],
+		["focus",1678860483653],
+		["move",792,720,1678860483890,"pointermove"],
+		["move",780,699,1678860483896,"pointermove"],
+		["move",763,666,1678860483903,"pointermove"],
+		["move",750,634,1678860483911,"pointermove"],
+		["move",725,576,1678860483918,"pointermove"],
+		["move",706,526,1678860483925,"pointermove"],
+		["move",705,525,1678860483926,"mousemove"],
+		["move",680,458,1678860483934,"pointermove"],
+		["move",662,409,1678860483940,"pointermove"],
+		["move",645,349,1678860483948,"pointermove"],
+		["move",629,282,1678860483956,"pointermove"],
+		["move",623,232,1678860483964,"pointermove"],
+		["move",622,203,1678860483971,"pointermove"],
+		["move",628,167,1678860483980,"pointermove"],
+		["move",635,151,1678860483985,"pointermove"],
+		["move",644,137,1678860483993,"pointermove"],
+		["move",649,131,1678860484000,"pointermove"],
+		["move",648,131,1678860484001,"mousemove"],
+		["move",654,125,1678860484008,"pointermove"],
+		["move",657,122,1678860484015,"pointermove"],
+		["move",658,120,1678860484023,"pointermove"],
+		["move",658,120,1678860484030,"pointermove"],
+		["move",658,120,1678860484031,"mousemove"],
+		["move",659,123,1678860484165,"pointermove"],
+		["move",662,128,1678860484173,"pointermove"],
+		["move",664,132,1678860484181,"pointermove"],
+		["move",667,139,1678860484189,"pointermove"],
+		["move",670,145,1678860484196,"pointermove"],
+		["move",673,152,1678860484203,"pointermove"],
+		["move",676,159,1678860484212,"pointermove"],
+		["move",678,168,1678860484218,"pointermove"],
+		["move",679,173,1678860484228,"pointermove"],
+		["move",682,183,1678860484233,"pointermove"],
+		["move",683,189,1678860484240,"pointermove"],
+		["move",685,200,1678860484248,"pointermove"],
+		["move",686,205,1678860484255,"pointermove"],
+		["move",687,214,1678860484264,"pointermove"],
+		["move",689,219,1678860484270,"pointermove"],
+		["move",690,225,1678860484278,"pointermove"],
+		["move",693,231,1678860484286,"pointermove"],
+		["move",692,230,1678860484287,"mousemove"],
+		["move",694,235,1678860484293,"pointermove"],
+		["move",695,239,1678860484302,"pointermove"],
+		["move",695,242,1678860484308,"pointermove"],
+		["move",695,244,1678860484316,"pointermove"],
+		["move",695,247,1678860484324,"pointermove"],
+		["move",695,251,1678860484332,"pointermove"],
+		["move",694,256,1678860484339,"pointermove"],
+		["move",693,262,1678860484346,"pointermove"],
+		["move",692,264,1678860484354,"pointermove"],
+		["move",690,270,1678860484362,"pointermove"],
+		["move",689,277,1678860484368,"pointermove"],
+		["move",686,284,1678860484376,"pointermove"],
+		["move",685,286,1678860484383,"pointermove"],
+		["move",682,292,1678860484391,"pointermove"],
+		["move",676,298,1678860484399,"pointermove"],
+		["move",670,303,1678860484405,"pointermove"],
+		["move",664,307,1678860484414,"pointermove"],
+		["move",658,311,1678860484421,"pointermove"],
+		["move",652,314,1678860484430,"pointermove"],
+		["move",646,318,1678860484436,"pointermove"],
+		["move",640,321,1678860484444,"pointermove"],
+		["move",636,323,1678860484451,"pointermove"],
+		["move",634,325,1678860484460,"pointermove"],
+		["move",633,327,1678860484466,"pointermove"],
+		["move",634,327,1678860484547,"pointermove"],
+		["move",635,327,1678860484557,"pointermove"],
+		["move",638,327,1678860484563,"pointermove"],
+		["move",641,327,1678860484572,"pointermove"],
+		["move",647,327,1678860484579,"pointermove"],
+		["move",653,327,1678860484586,"pointermove"],
+		["move",666,325,1678860484595,"pointermove"],
+		["move",673,324,1678860484601,"pointermove"],
+		["move",681,323,1678860484609,"pointermove"],
+		["move",695,321,1678860484616,"pointermove"],
+		["move",701,321,1678860484624,"pointermove"],
+		["move",707,320,1678860484631,"pointermove"],
+		["move",712,319,1678860484639,"pointermove"],
+		["move",718,319,1678860484647,"pointermove"],
+		["move",721,319,1678860484653,"pointermove"],
+		["move",725,318,1678860484661,"pointermove"],
+		["move",726,318,1678860484668,"pointermove"],
+		["move",727,318,1678860484676,"pointermove"],
+		["move",728,317,1678860484683,"pointermove"],
+		["move",727,317,1678860484743,"pointermove"],
+		["move",726,317,1678860484751,"pointermove"],
+		["move",726,317,1678860484758,"pointermove"],
+		["down",726,317,1678860484985,"pointerdown"],
+		["focus",1678860484985],
+		["up",726,317,1678860485074,"pointerup"]
+	]
+	$_BDHq: null
+	$_BDIb: null
+	$_BDJk: 725.6000366210938
+	$_BEAd: 317
+	$_BEBh: 1678860484758
+	lastTime: 0
+	posX: 725.6000366210938
+	posY: 317
+	scrollLeft: 0
+	scrollTop: 0
+}
+
+'M.NAP jp8 PjfA3(?O955(()n((,(q(b((-,((b(9:*N@ZFjM9KCMENkC0NjK0MEO))kGRK0RU-1KCMEO))j-1G0M9NVKCNkF:VVM9KCNjK)*/NjInNp5.S(7j:BA(5(,(,(q(,(q(5(q5Eb:fF-cU?-:)NFkM9Ac(@3*(d-c3)(?-j-)MM,)M?-c8,NQ1E-)M97))ZK7M9FC61/)b9/)M0qb( (qb*(8kBBBB5((5((8((,5b8585df)AN1,Ud:, -n9e1J2),Y-/5M6AJU-0RGGgRE-/M99d6.ESM9IU-/C)),9j/*Mb(Y-)15-)M9(E-(/*M0qqM(((0M'
+'M.NAPqjp8OPjfA3(?O955(()n((,(q(b((-,((b(9:*N@ZFjM9KCMENkC0NjK0MEO))kGRK0RU-1KCMEO))j-1G0M9NVKCNkF:VVM9KCNjK)*/NjInNp5.S(7j:BA(5(,(,(q(,(q(5(q5Eb:fF-cU?-:)NFkM9Ac(@3*(d-c3)(?-j-)MM,)M?-c8,NQ1E-)M97))ZK7M9FC61/)b9/)M0qb(e(qb*(8kBBBB5((5((8((,5b8585df)AN1,Ud:,h-n9e1J2),Y-/5M6AJU-0RGGgRE-/M99d6.ESM9IU-/C)),9j/*Mb(Y-)15-)M9(E-(/*M0qqM(((0M'
+
+for (var a = [
+		//"lang":"zh-cn",
+		[$_CGBAE(163), o[$_CGBBR(163)] || $_CGBAE(108)], 
+		//"type":"fullpage",
+		[$_CGBAE(205), $_CGBBR(1406)], 
+		//	"tt":"M.Y.?8Pjp8Pc9U)9k,bn(5,(((((8-(((((((((9(o/)(0X4Z2M9K)*/S))j-1K/Rj-1GCM9NjGCNlG0NVGE-0M9Nh2jG0NjK0NqNkK/RjKKG:SG/RjM9K)*/1.3(9/(8b-((55)(,5(,b(n(b58RZ1_9P,)(I-*b96afBKj:@F5/,(U-._3-gNO7)()M9(9-g@))n-/JC9E1(Mb1?-1-)1?M9-NMU(qqj(0q(1)-U,8B5)BI,((5b,(((((bn85:kIHnf4)(fb9H@)O)A9.jb9g_QE-:5:/Y-3JDb9GOB*5I-*,)M9-*b9-*(P-)195@4)(c,)(E-(-53)M9(E-(8qqqqqqb",
+		[$_CGBAE(1414), 
+			function(e, t, n) {
+				var $_CGBFN = cKFnp.$_Cd
+				  , $_CGBEm = ['$_CGBIx'].concat($_CGBFN)
+				  , $_CGBG_ = $_CGBEm[1];
+				$_CGBEm.shift();
+				var $_CGBHG = $_CGBEm[0];
+				if (!t || !n)
+					return e;
+				var r, o = 0, i = e, s = t[0], a = t[2], c = t[4];
+				while (r = n[$_CGBG_(180)](o, 2)) {
+					o += 2;
+					var _ = parseInt(r, 16)
+					  , l = String[$_CGBG_(382)](_)
+					  , u = (s * _ * _ + a * _ + c) % e[$_CGBG_(258)];
+					i = i[$_CGBFN(180)](0, u) + l + i[$_CGBG_(180)](u);
+				}
+				return i;
+			}(e, o[$_CGBAE(808)], o[$_CGBAE(415)]) || -1], 
+		//"light":"SPAN_0",
+		[$_CGBAE(1473), r || -1],
+		//"s":"c7c3e21112fe4f741921cb3e4ff9f7cb",		
+		[$_CGBBR(415), I(m[$_CGBAE(929)](t))], 
+		//"h":"9e76a7243503ce402aa052db3a5d9453",
+		[$_CGBBR(1479), I(m[$_CGBAE(929)](n))], 
+		//"hh":"12b3d09bad11bd62987aeeeaeb93e286",
+		[$_CGBBR(1476), I(n)], 
+		//"hi":"6804c1398c73a9acea9ca01e97607815",
+		[$_CGBBR(1471), I(i[$_CGBBR(1385)])], 
+		//"vip_order":-1,
+		[$_CGBBR(1407), i[$_CGBAE(1407)] || -1], 
+		//"ct":-1,
+		[$_CGBAE(1434), i[$_CGBAE(1434)] || -1], 
+		//"ep":{"v":"9.1.2","de":false,"te":false,"$_BBS":true,"ven":"Google Inc. (NVIDIA)","ren":"ANGLE (NVIDIA, NVIDIA Quadro P2000 Direct3D11 vs_5_0 ps_5_0, D3D11)","fp":["move",229,279,1678852158523,"pointermove"],"lp":["up",706,318,1678852161602,"pointerup"],"em":{"ph":0,"cp":0,"ek":"11","wd":1,"nt":0,"si":0,"sc":0},"tm":{"a":1678852156958,"b":0,"c":0,"d":0,"e":0,"f":1678852156961,"g":1678852156964,"h":1678852157059,"i":1678852157059,"j":1678852157102,"k":1678852157076,"l":1678852157102,"m":1678852157292,"n":1678852157293,"o":1678852157297,"p":1678852157515,"q":1678852157515,"r":1678852157517,"s":1678852157517,"t":1678852157517,"u":1678852157517},"dnf":"dnf","by":0},
+		[$_CGBBR(1405), i[$_CGBBR(1436)]() || -1], 
+		//"passtime":3552,
+		[$_CGBAE(1444), s || -1], 
+		//"rp":"480986234a86f39dba0a16aa79b6ba74",
+		[$_CGBBR(1489), I(o[$_CGBAE(348)] + o[$_CGBAE(350)] + s)]
+	], c = 0; 
+	c < a[$_CGBBR(258)];c++){
+    i[$_CGBAE(1469)] += $_CGBBR(622) + a[c][0] + $_CGBBR(1447) + ge[$_CGBAE(330)](a[c][1]) + $_CGBBR(759);
+}
+
+				time       x           y 
+var _ = f(t) + g(n, !1) + g(r, !0) + g(o, !0)
+
+"6148magic data7436magic dataCSS1Compatmagic data1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data2magic data3magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data-1magic data1magic data-1magic data-1magic data-1magic data0magic data0magic data0magic data0magic data194magic data730magic data1536magic data832magic datazh-CNmagic datazh-CNmagic data-1magic data1.25magic data24magic dataMozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36magic data1magic data1magic data1536magic data864magic data1536magic data832magic data1magic data1magic data1magic data-1magic dataWin32magic data0magic data-8magic data3515ba42d4414f09872d5667a81df514magic data0magic datainternal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewer,internal-pdf-viewermagic data0magic data-1magic data0magic data12magic dataArial,ArialBlack,ArialNarrow,BookAntiqua,BookmanOldStyle,Calibri,Cambria,CambriaMath,Century,CenturyGothic,CenturySchoolbook,ComicSansMS,Consolas,Courier,CourierNew,Garamond,Georgia,Helvetica,Impact,LucidaBright,LucidaCalligraphy,LucidaConsole,LucidaFax,LucidaHandwriting,LucidaSans,LucidaSansTypewriter,LucidaSansUnicode,MicrosoftSansSerif,MonotypeCorsiva,MSGothic,MSPGothic,MSReferenceSansSerif,MSSansSerif,MSSerif,PalatinoLinotype,SegoePrint,SegoeScript,SegoeUI,SegoeUILight,SegoeUISemibold,SegoeUISymbol,Tahoma,Times,TimesNewRoman,TrebuchetMS,Verdana,Wingdings,Wingdings2,Wingdings3magic data1678882583996magic data-1magic data-1magic data-1magic data12magic data-1magic data-1magic data-1magic data5magic data-1magic data-1"
+
+
+function I(e) {
+	var $_DDIJp = cKFnp.$_Dt()[0][14];
+	for (; $_DDIJp !== cKFnp.$_Dt()[0][13]; ) {
+		switch ($_DDIJp) {
+		case cKFnp.$_Dt()[0][14]:
+			function c(e, t) {
+				var $_DDJA_ = cKFnp.$_Dt()[4][14];
+				for (; $_DDJA_ !== cKFnp.$_Dt()[4][13]; ) {
+					switch ($_DDJA_) {
+					case cKFnp.$_Dt()[8][14]:
+						return e << t | e >>> 32 - t;
+						break;
+					}
+				}
+			}
+			function _(e, t) {
+				var $_DDJBR = cKFnp.$_Dt()[0][14];
+				for (; $_DDJBR !== cKFnp.$_Dt()[8][13]; ) {
+					switch ($_DDJBR) {
+					case cKFnp.$_Dt()[4][14]:
+						var n, r, o, i, s;
+						return o = 2147483648 & e,
+						i = 2147483648 & t,
+						s = (1073741823 & e) + (1073741823 & t),
+						(n = 1073741824 & e) & (r = 1073741824 & t) ? 2147483648 ^ s ^ o ^ i : n | r ? 1073741824 & s ? 3221225472 ^ s ^ o ^ i : 1073741824 ^ s ^ o ^ i : s ^ o ^ i;
+						break;
+					}
+				}
+			}
+			function t(e, t, n, r, o, i, s) {
+				var $_DDJCv = cKFnp.$_Dt()[8][14];
+				for (; $_DDJCv !== cKFnp.$_Dt()[4][13]; ) {
+					switch ($_DDJCv) {
+					case cKFnp.$_Dt()[8][14]:
+						return _(c(e = _(e, _(_(function a(e, t, n) {
+							var $_HEFn = cKFnp.$_Cd
+							  , $_HEEi = ['$_HEIB'].concat($_HEFn)
+							  , $_HEGx = $_HEEi[1];
+							$_HEEi.shift();
+							var $_HEHM = $_HEEi[0];
+							return e & t | ~e & n;
+						}(t, n, r), o), s)), i), t);
+						break;
+					}
+				}
+			}
+			function n(e, t, n, r, o, i, s) {
+				var $_DDJDg = cKFnp.$_Dt()[0][14];
+				for (; $_DDJDg !== cKFnp.$_Dt()[0][13]; ) {
+					switch ($_DDJDg) {
+					case cKFnp.$_Dt()[4][14]:
+						return _(c(e = _(e, _(_(function a(e, t, n) {
+							var $_HFAY = cKFnp.$_Cd
+							  , $_HEJx = ['$_HFDV'].concat($_HFAY)
+							  , $_HFBp = $_HEJx[1];
+							$_HEJx.shift();
+							var $_HFCZ = $_HEJx[0];
+							return e & n | t & ~n;
+						}(t, n, r), o), s)), i), t);
+						break;
+					}
+				}
+			}
+			function r(e, t, n, r, o, i, s) {
+				var $_DDJEi = cKFnp.$_Dt()[4][14];
+				for (; $_DDJEi !== cKFnp.$_Dt()[8][13]; ) {
+					switch ($_DDJEi) {
+					case cKFnp.$_Dt()[8][14]:
+						return _(c(e = _(e, _(_(function a(e, t, n) {
+							var $_HFFt = cKFnp.$_Cd
+							  , $_HFEh = ['$_HFIA'].concat($_HFFt)
+							  , $_HFGX = $_HFEh[1];
+							$_HFEh.shift();
+							var $_HFHc = $_HFEh[0];
+							return e ^ t ^ n;
+						}(t, n, r), o), s)), i), t);
+						break;
+					}
+				}
+			}
+			function o(e, t, n, r, o, i, s) {
+				var $_DDJFe = cKFnp.$_Dt()[4][14];
+				for (; $_DDJFe !== cKFnp.$_Dt()[0][13]; ) {
+					switch ($_DDJFe) {
+					case cKFnp.$_Dt()[8][14]:
+						return _(c(e = _(e, _(_(function a(e, t, n) {
+							var $_HGA_ = cKFnp.$_Cd
+							  , $_HFJK = ['$_HGDQ'].concat($_HGA_)
+							  , $_HGBC = $_HFJK[1];
+							$_HFJK.shift();
+							var $_HGCD = $_HFJK[0];
+							return t ^ (e | ~n);
+						}(t, n, r), o), s)), i), t);
+						break;
+					}
+				}
+			}
+			function i(e) {
+				var $_DDJGs = cKFnp.$_Dt()[4][14];
+				for (; $_DDJGs !== cKFnp.$_Dt()[0][13]; ) {
+					switch ($_DDJGs) {
+					case cKFnp.$_Dt()[8][14]:
+						var t, n = $_DAFp(279), r = $_DAGI(279);
+						for (t = 0; t <= 3; t++)
+							n += (r = $_DAFp(271) + (e >>> 8 * t & 255)[$_DAFp(421)](16))[$_DAGI(180)](r[$_DAFp(258)] - 2, 2);
+						return n;
+						break;
+					}
+				}
+			}
+			var s, a, l, u, p, h, f, g, d, v;
+			for (s = function m(e) {
+				var $_HGFD = cKFnp.$_Cd
+				  , $_HGEN = ['$_HGIK'].concat($_HGFD)
+				  , $_HGGF = $_HGEN[1];
+				$_HGEN.shift();
+				var $_HGHz = $_HGEN[0];
+				var t, n = e[$_HGGF(258)], r = n + 8, o = 16 * (1 + (r - r % 64) / 64), i = Array(o - 1), s = 0, a = 0;
+				while (a < n)
+					s = a % 4 * 8,
+					i[t = (a - a % 4) / 4] = i[t] | e[$_HGFD(340)](a) << s,
+					a++;
+				return s = a % 4 * 8,
+				i[t = (a - a % 4) / 4] = i[t] | 128 << s,
+				i[o - 2] = n << 3,
+				i[o - 1] = n >>> 29,
+				i;
+			}(e = function w(e) {
+				var $_HHAb = cKFnp.$_Cd
+				  , $_HGJX = ['$_HHDW'].concat($_HHAb)
+				  , $_HHBP = $_HGJX[1];
+				$_HGJX.shift();
+				var $_HHCW = $_HGJX[0];
+				e = e[$_HHBP(245)](/\r\n/g, $_HHAb(420));
+				for (var t = $_HHBP(279), n = 0; n < e[$_HHBP(258)]; n++) {
+					var r = e[$_HHAb(340)](n);
+					r < 128 ? t += String[$_HHBP(382)](r) : (127 < r && r < 2048 ? t += String[$_HHAb(382)](r >> 6 | 192) : (t += String[$_HHAb(382)](r >> 12 | 224),
+					t += String[$_HHAb(382)](r >> 6 & 63 | 128)),
+					t += String[$_HHAb(382)](63 & r | 128));
+				}
+				return t;
+			}(e)),
+			f = 1732584193,
+			g = 4023233417,
+			d = 2562383102,
+			v = 271733878,
+			a = 0; a < s[$_DAFp(258)]; a += 16)
+				g = o(g = o(g = o(g = o(g = r(g = r(g = r(g = r(g = n(g = n(g = n(g = n(g = t(g = t(g = t(g = t(u = g, d = t(p = d, v = t(h = v, f = t(l = f, g, d, v, s[a + 0], 7, 3614090360), g, d, s[a + 1], 12, 3905402710), f, g, s[a + 2], 17, 606105819), v, f, s[a + 3], 22, 3250441966), d = t(d, v = t(v, f = t(f, g, d, v, s[a + 4], 7, 4118548399), g, d, s[a + 5], 12, 1200080426), f, g, s[a + 6], 17, 2821735955), v, f, s[a + 7], 22, 4249261313), d = t(d, v = t(v, f = t(f, g, d, v, s[a + 8], 7, 1770035416), g, d, s[a + 9], 12, 2336552879), f, g, s[a + 10], 17, 4294925233), v, f, s[a + 11], 22, 2304563134), d = t(d, v = t(v, f = t(f, g, d, v, s[a + 12], 7, 1804603682), g, d, s[a + 13], 12, 4254626195), f, g, s[a + 14], 17, 2792965006), v, f, s[a + 15], 22, 1236535329), d = n(d, v = n(v, f = n(f, g, d, v, s[a + 1], 5, 4129170786), g, d, s[a + 6], 9, 3225465664), f, g, s[a + 11], 14, 643717713), v, f, s[a + 0], 20, 3921069994), d = n(d, v = n(v, f = n(f, g, d, v, s[a + 5], 5, 3593408605), g, d, s[a + 10], 9, 38016083), f, g, s[a + 15], 14, 3634488961), v, f, s[a + 4], 20, 3889429448), d = n(d, v = n(v, f = n(f, g, d, v, s[a + 9], 5, 568446438), g, d, s[a + 14], 9, 3275163606), f, g, s[a + 3], 14, 4107603335), v, f, s[a + 8], 20, 1163531501), d = n(d, v = n(v, f = n(f, g, d, v, s[a + 13], 5, 2850285829), g, d, s[a + 2], 9, 4243563512), f, g, s[a + 7], 14, 1735328473), v, f, s[a + 12], 20, 2368359562), d = r(d, v = r(v, f = r(f, g, d, v, s[a + 5], 4, 4294588738), g, d, s[a + 8], 11, 2272392833), f, g, s[a + 11], 16, 1839030562), v, f, s[a + 14], 23, 4259657740), d = r(d, v = r(v, f = r(f, g, d, v, s[a + 1], 4, 2763975236), g, d, s[a + 4], 11, 1272893353), f, g, s[a + 7], 16, 4139469664), v, f, s[a + 10], 23, 3200236656), d = r(d, v = r(v, f = r(f, g, d, v, s[a + 13], 4, 681279174), g, d, s[a + 0], 11, 3936430074), f, g, s[a + 3], 16, 3572445317), v, f, s[a + 6], 23, 76029189), d = r(d, v = r(v, f = r(f, g, d, v, s[a + 9], 4, 3654602809), g, d, s[a + 12], 11, 3873151461), f, g, s[a + 15], 16, 530742520), v, f, s[a + 2], 23, 3299628645), d = o(d, v = o(v, f = o(f, g, d, v, s[a + 0], 6, 4096336452), g, d, s[a + 7], 10, 1126891415), f, g, s[a + 14], 15, 2878612391), v, f, s[a + 5], 21, 4237533241), d = o(d, v = o(v, f = o(f, g, d, v, s[a + 12], 6, 1700485571), g, d, s[a + 3], 10, 2399980690), f, g, s[a + 10], 15, 4293915773), v, f, s[a + 1], 21, 2240044497), d = o(d, v = o(v, f = o(f, g, d, v, s[a + 8], 6, 1873313359), g, d, s[a + 15], 10, 4264355552), f, g, s[a + 6], 15, 2734768916), v, f, s[a + 13], 21, 1309151649), d = o(d, v = o(v, f = o(f, g, d, v, s[a + 4], 6, 4149444226), g, d, s[a + 11], 10, 3174756917), f, g, s[a + 2], 15, 718787259), v, f, s[a + 9], 21, 3951481745),
+				f = _(f, l),
+				g = _(g, u),
+				d = _(d, p),
+				v = _(v, h);
+			return (i(f) + i(g) + i(d) + i(v))[$_DAGI(293)]();
+			break;
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
